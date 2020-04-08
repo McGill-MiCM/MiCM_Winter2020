@@ -2,11 +2,8 @@
 
 ## Schedule
 
-| Topic | Date | Instructor | 
-| ------| ---- | ---------- |
-| Topic | Date | Instructor | 
+| Topic | Date | Time | Instructor | 
+| ------| ---- | -----| ---------- |
+| Python - Beyond the basics | Feburary 28, 2020 | 8am-12pm | Eisha Ahmed | 
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+
