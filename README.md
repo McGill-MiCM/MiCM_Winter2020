@@ -22,5 +22,5 @@
 
 * Python - Beyond the basics
 
-* R - Beyond the basics
+* [R - Beyond the basics](https://github.com/McGill-MiCM/MiCM2020)
 
