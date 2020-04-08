@@ -1,2 +1,3 @@
-# 2020 Winter Workshop Series
+# Winter Workshop Series 2020
 
+## Schedule
