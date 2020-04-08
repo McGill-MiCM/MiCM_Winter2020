@@ -24,3 +24,5 @@
 
 * [R - Beyond the basics](https://github.com/McGill-MiCM/MiCM2020)
 
+
+#### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
