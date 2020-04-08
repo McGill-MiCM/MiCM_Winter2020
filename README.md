@@ -2,9 +2,9 @@
 
 ## Schedule
 
-|Topic| | Date | Instructor | 
-| ------| | ---- | ---------- |
-| Topic | | Date | Instructor | 
+| Topic | Date | Instructor | 
+| ------| ---- | ---------- |
+| Topic | Date | Instructor | 
 
 | Command | Description |
 | --- | --- |
