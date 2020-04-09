@@ -1,5 +1,7 @@
 # Winter Workshop Series 2020
 
+This repository contains all the materials of the 2020 Winter Workshop Series. Due to the COVID-19, MiCM took precautions and special safety measures to keep its community safe by suspending the winter workshop series. We will be sharing more information regarding the rescheduled workshops at a later date.
+
 ## Schedule
 
 | Topic | Date | Time | Instructor | 
