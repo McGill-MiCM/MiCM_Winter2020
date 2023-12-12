@@ -22,7 +22,7 @@ This repository contains all the materials of the 2020 Winter Workshop Series. D
 
 ## Workshop Materials
 
-* Python - Beyond the basics
+* [Python - Beyond the basics](https://github.com/McGill-MiCM/MiCM_Winter2020/blob/master/2020-02_MiCM_PythonWorkshop.pdf)
 
 * [R - Beyond the basics](https://github.com/McGill-MiCM/MiCM2020)
 
